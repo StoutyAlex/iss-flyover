@@ -1,8 +1,5 @@
 const axios = require('axios');
 const moment = require('moment');
-const express = require('express');
-
-const app = express();
 
 const testLat = 53.47;
 const testLon = 2.300;
